@@ -1,0 +1,6 @@
+< begin_key_word 'begin' >
+< identifier 'ba'>
+< assignment_operator '=' >
+< identifier 'ba'>
+< multiply_operator '*' >
+< (5:16) Unknown lexeme>

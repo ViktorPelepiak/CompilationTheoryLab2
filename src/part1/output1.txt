@@ -1,0 +1,9 @@
+< begin_key_word 'begin' >
+< identifier 'ba'>
+< assignment_operator '=' >
+< identifier 'ba'>
+< multiply_operator '*' >
+< identifier 'ab'>
+< elevation_to_the_degree_operator '^' >
+< number '10' >
+< end_key_word 'end;' >

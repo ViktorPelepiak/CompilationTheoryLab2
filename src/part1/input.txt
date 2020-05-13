@@ -1,0 +1,6 @@
+begin ab = ba ^ 100 end;
+begin ba = ba * ab ^ 10 end;
+begin ab = ab * ab ^ 10; ba = ba ^ 100 end;
+
+beg ab = ab * ab ^ 10 end;
+begin ba = ba * aa ^ 10 end;
